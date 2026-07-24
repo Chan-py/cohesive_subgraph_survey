@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.lprof
+.ipynb_checkpoints/
+
+# Compiled C++ binaries (build from source — see README)
+cpp_truss/kab_truss
+cpp_truss/kinout_truss
+HTRUSS/*.exe
+HTRUSS/build/
+nbr_kd_coreness/main
+nbr_kd_coreness/kdmain
+*.o
+*.out
+
+# Data & experiment artifacts (not tracked — see README for how to obtain data)
+datasets/
+cache/
+output/
+results/
+*.pkl
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

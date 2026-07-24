@@ -1,0 +1,5 @@
+sortedcontainers==2.4.0
+networkx==3.2.1
+numpy==1.26.4
+psutil==5.9.8
+pandas==2.2.2
